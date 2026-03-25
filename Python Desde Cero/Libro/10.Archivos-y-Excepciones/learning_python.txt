@@ -1,0 +1,9 @@
+En Python podemos crear diferentes proyectos en conjunto con librerias y otros lenguajes.
+
+Ademas, podemos hacer casi cualquier proyecto, desde una pagina web hasta una inteligencia artificial.
+
+Python
+python
+Python
+
+Fin del Texto.

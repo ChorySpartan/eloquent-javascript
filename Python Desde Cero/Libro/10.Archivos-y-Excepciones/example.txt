@@ -1,0 +1,4 @@
+Hola, este es un ejemplo.
+Esta línea contiene la palabra ejemplo.
+Un ejemplo más, ejemplo.
+Y aquí no hay nada.
